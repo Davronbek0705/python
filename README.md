@@ -1,0 +1,2 @@
+# python
+Mening loyihalarim
